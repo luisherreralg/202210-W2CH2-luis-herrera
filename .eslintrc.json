@@ -11,7 +11,9 @@
         "sourceType": "module"
     },
     "rules": {
-        // "no-console": "off",
-        // "import/prefer-default-export": "off"
+        "no-console": "off",
+        "import/prefer-default-export": "off",
+        "import/extensions": "off",
+        "no-restricted-globals": "off"
     }
 }
